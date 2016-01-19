@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C039F5EE824BD4AB2F249337409D8753634A35ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C039F5EE824BD4AB2F249337409D8753634A35ED" : 0,
+    "40C97400BEF39AB6892F28B3F40F74C9BC448AF6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0528101-B852-412F-8F6D-C6E7FD958CBC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C039F5EE824BD4AB2F249337409D8753634A35ED" : "iOS-Student-Autolayout",
+    "40C97400BEF39AB6892F28B3F40F74C9BC448AF6" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Autolayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Autolayout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lipandevelope\/car-prep-objective-c-1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "40C97400BEF39AB6892F28B3F40F74C9BC448AF6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-Autolayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C039F5EE824BD4AB2F249337409D8753634A35ED"
+    }
+  ]
+}
